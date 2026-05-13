@@ -4,6 +4,10 @@
 
   * Allow disabling of all network accesses (#285)
 
+### Bug Fixes
+
+  * Handle Octokit::Forbidden for oversized contributor lists (#301)
+
 ## 2.16.1 / 2023-12-22
 
 ### Bug Fixes
